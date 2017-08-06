@@ -14,6 +14,8 @@ h1 {
 	text-align: left;
 	text-transform: uppercase;
 	margin-left: 250px;
+	background: #f47a21;
+	padding: 1px 5px;
 }
 h2 {
 	color: #f47a21;
