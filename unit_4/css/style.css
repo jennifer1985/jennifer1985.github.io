@@ -19,8 +19,9 @@ p {
 	color: #111112;
 	width: 12em;
 	align-items: center;
+	font-size: 20px;
     margin-left: 7.5em;
-	font-family: 'Merriweather, serif', 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
+	font-family: 'Merriweather', serif, 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
 }
 section {
   float: left;
