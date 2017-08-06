@@ -7,7 +7,7 @@ body {
 	text-align: center;
 }
 h1 {
-    color: #A9A9A9;
+    color: #111112;
 	font-family: 'Ramabhadra', sans-serif, 'Arial';
 	font-size: 48px;
     line-height: 0.4em;
@@ -31,11 +31,6 @@ p {
 	align-items: center;
 	font-size: 16px;
 	font-family: 'Merriweather', serif, 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
-	font-weight: 300;
-
-}
-header {
-	background-color: #f47a21;
 }
 section {
   float: left;
