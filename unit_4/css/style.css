@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Merriweather|Oswald');
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Oswald|Ramabhadra');
 
 body {
     background: url(images/background.jpg);
@@ -8,11 +8,11 @@ body {
 }
 h1, p {
     color: #f47a21;
-	font-family: 'Knockout 47 A','Arial';
+	font-family: 'Oswald', sans-serif, 'Arial';
 }
 h2 {
 	color: #111112;
-	font-family: 'Oswald', sans-serif, 'Arial','Helvetica Neue','Helvetica,sans-serif';
+	font-family: 'Ramabhadra', sans-serif, 'Arial','Helvetica Neue','Helvetica,sans-serif';
 }
 section {
   float: left;
