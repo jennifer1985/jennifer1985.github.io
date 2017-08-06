@@ -16,6 +16,7 @@ h2 {
 	color: #f47a21;
 	font-family: 'Ramabhadra', sans-serif, 'Arial','Helvetica Neue','Helvetica,sans-serif';
 	letter-spacing: 0.1em;
+	margin-right: -187px;
 }
 p {
 	color: #111112;
@@ -27,7 +28,7 @@ p {
 }
 tech {
 	position:absolute;
-	margin: 725px 0px 0 100px;
+	margin: 733px 28px 13px -1103px;
 }
 section {
   float: left;
