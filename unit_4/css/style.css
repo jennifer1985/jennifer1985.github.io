@@ -12,10 +12,9 @@ h1 {
 	font-size: 48px;
 	line-height: 0.4em; 
 	text-align: left;
-	text-transform: uppercase;
 	margin-left: 250px;
-	background: #f47a21;
-	padding: 1px 5px;
+	display: block;
+	background-color:aqua;
 }
 h2 {
 	color: #f47a21;
@@ -30,6 +29,9 @@ p {
 	align-items: center;
 	font-size: 16px;
 	font-family: 'Merriweather', serif, 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
+}
+header {
+	background-color: #f47a21;
 }
 tech {
 	position:absolute;
