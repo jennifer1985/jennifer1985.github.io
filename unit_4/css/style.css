@@ -14,7 +14,8 @@ h1 {
 	text-align: left;
 	margin-left: 250px;
 	display: block;
-	background-color:aqua;
+	background-color: #f47a21;
+	padding: .15em .1em .5e .5em;
 }
 h2 {
 	color: #f47a21;
