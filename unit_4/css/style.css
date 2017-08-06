@@ -13,6 +13,8 @@ h1 {
 	line-height: 1.1em;
 	text-align: left;
     padding-left: 175px;
+	text-transform: uppercase;
+	margin-left: 157px;
 }
 h2 {
 	color: #f47a21;
