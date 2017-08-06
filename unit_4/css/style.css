@@ -10,12 +10,13 @@ h1 {
     color: #A9A9A9;
 	font-family: 'Ramabhadra', sans-serif, 'Arial';
 	font-size: 48px;
-	line-height: 0.4em; 
-	text-align: left;
-	margin-left: 250px;
-	display: block;
-	background-color: #f47a21;
-	margin-right: 886px;
+    line-height: 0.4em;
+    text-align: left;
+    margin-left: 250px;
+    display: block;
+    background-color: #f47a21;
+    margin-right: 886px;
+    padding: 0.3em .1em .4em .1em;
 }
 h2 {
 	color: #f47a21;
