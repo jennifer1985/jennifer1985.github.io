@@ -11,6 +11,8 @@ h1 {
 	font-family: 'Ramabhadra', sans-serif, 'Arial';
 	font-size: 48px;
 	line-height: 1.1em;
+	text-align: left;
+    padding-left: 175px;
 }
 h2 {
 	color: #f47a21;
