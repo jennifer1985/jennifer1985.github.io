@@ -27,6 +27,7 @@ p {
 section {
   float: left;
   width: 30%;
+  text-align:center;
 }
 footer {
   clear: both;
