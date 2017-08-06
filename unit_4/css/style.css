@@ -33,10 +33,10 @@ p {
 	font-family: 'Merriweather', serif, 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
 }
 section {
-  float: left;
-  width: 30%;
-  text-align:center;
-  padding-left: 22px;
+    float: left;
+    width: 26%;
+    text-align: center;
+    padding-left: 19px;
 }
 footer {
   clear: both;
