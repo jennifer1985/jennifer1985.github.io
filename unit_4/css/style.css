@@ -26,7 +26,8 @@ p {
 	font-family: 'Merriweather', serif, 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
 }
 tech {
-	
+	position:absolute;
+	margin: 725px 0px 0 100px;
 }
 section {
   float: left;
