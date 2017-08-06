@@ -6,25 +6,27 @@ body {
 	background-size:cover;
 	text-align: center;
 }
-h1, p {
-    color: #f47a21;
+h1 {
+    color: #A9A9A9;
 	font-family: 'Ramabhadra', sans-serif, 'Arial';
+	font-size: 48px;
 }
 h2 {
-	color: #111112;
+	color: #f47a21;
 	font-family: 'Ramabhadra', sans-serif, 'Arial','Helvetica Neue','Helvetica,sans-serif';
 }
-section {
-  float: left;
-  width: 30%;
-}
 p {
+	color: #111112;
 	width: 12em;
 	align-items: center;
     margin-left: 7.5em;
 	font-family: 'Merriweather, serif', 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
 }
+section {
+  float: left;
+  width: 30%;
+}
 footer {
   clear: both;
-  margin-bottom: 0;
+  margin-bottom: 25px;
 }
