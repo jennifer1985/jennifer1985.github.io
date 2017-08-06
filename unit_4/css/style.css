@@ -1,17 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Oswald');
+
 body {
     background: url(images/background.jpg);
     background-position: center;
 	background-size:cover;
 	text-align: center;
-	font: url('https://fonts.googleapis.com/css?family=Merriweather|Oswald');
 }
 h1, p {
     color: #f47a21;
-	font-family: "Knockout 47 A" Arial;
+	font-family: 'Knockout 47 A'; 'Arial';
 }
 h2 {
 	color: #111112;
-	font-family: "'Oswald', sans-serif",Arial,"Helvetica Neue",Helvetica,sans-serif;
+	font-family: 'Oswald', sans-serif; 'Arial','Helvetica Neue','Helvetica,sans-serif';
 }
 section {
   float: left;
@@ -21,7 +22,7 @@ p {
 	width: 12em;
 	align-items: center;
     margin-left: 7.5em;
-	font-family: "'Merriweather', serif",Arial,"Helvetica Neue",Helvetica,sans-serif;
+	font-family: 'Merriweather', serif; 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
 }
 footer {
   clear: both;
