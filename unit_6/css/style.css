@@ -12,6 +12,7 @@ h1 {
 	font-size: 48px;
     line-height: 0.4em;
     text-align: left;
+	clear: both;
 } 
 h2 {
 	color: #f47a21;
@@ -27,14 +28,12 @@ p {
 	font-family: 'Merriweather', serif, 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
 }
 header {
-	align-content: left;
     border: 1px black solid;
     padding: 20px;
 }
 nav {
 	float: left;
     border: 1px black solid;
-    padding: 20px;
 }
 li {
 	background-color: green;
