@@ -35,7 +35,7 @@ nav {
     border: 1px black solid;
     padding: 20px;
 }
-tech_info {
+.tech_info {
 	display: block;
 	float: left;
 	width: 33%;
