@@ -27,12 +27,12 @@ p {
 	font-family: 'Merriweather', serif, 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
 }
 header {
-	display: block;
 	align-content: left;
     border: 1px black solid;
     padding: 20px;
 }
 nav {
+	float: left;
     border: 1px black solid;
     padding: 20px;
 }
@@ -42,11 +42,6 @@ li {
 	float: right;
 	padding: 20px;
 }
-.logo {
-	display: block;
-	align-content: left;
-}
-
 #tech {
 	padding-left: 50px;
 	padding-right: 50px;
@@ -67,9 +62,8 @@ footer {
     padding: 20px;
 }
 section {
-    background-color: #FFE2B8;
     border: 1px black solid;
-    padding: 20px;
+    padding: 2px;
 }
 
 
