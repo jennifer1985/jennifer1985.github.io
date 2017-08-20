@@ -25,24 +25,23 @@ p {
 	font-size: 16px;
 	font-family: 'Merriweather', serif, 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
 }
-header {
-    background-color: #FFED74;
-    border: 1px black solid;
-    padding: 20px;
-}
 nav {
     border: 1px black solid;
     padding: 20px;
 }
-
 li {
 	display: block;
 	background-color: green;
 	border: 1px black solid;
 	float: left;
 	padding: 20px;
-	
 }
+header {
+	align-content: left;
+    border: 1px black solid;
+    padding: 20px;
+}
+
 #tech {
 	padding-left: 50px;
 	padding-right: 50px;
