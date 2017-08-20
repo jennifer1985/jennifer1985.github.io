@@ -31,9 +31,20 @@ header {
     padding: 20px;
 }
 nav {
+	display: block;
+	float: left;
     background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
+
+}
+
+li {
+	display: block;
+	background-color: green;
+	float: left;
+	padding: 20px;
+	
 }
 #tech {
 	padding-left: 50px;
