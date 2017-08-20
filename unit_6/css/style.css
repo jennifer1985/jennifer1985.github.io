@@ -38,6 +38,7 @@ nav {
 div {
 	display: inline-block;
 	float: left;
+	width: 33%;
 }
 aside {
     border: 1px black solid;
