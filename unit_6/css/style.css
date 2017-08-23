@@ -13,6 +13,7 @@ h1 {
     line-height: 0.4em;
     text-align: left;
 	clear: both;
+	background-color: #f27b21;
 } 
 h2 {
 	color: #f47a21;
@@ -71,6 +72,8 @@ a:hover {
 aside {
     border: 1px black solid;
     padding: 20px;
+	margin-left: 50px;
+    width: 478px;
 }
 footer {
     background-color: #FF957E;
