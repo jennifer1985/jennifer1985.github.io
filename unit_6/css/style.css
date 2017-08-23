@@ -28,15 +28,16 @@ p {
 	font-family: 'Merriweather', serif, 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
 }
 header {
-    border: 1px black solid;
+    border: 1px #74746B solid;
     padding: 20px;
 	background-color: #74746B;
 }
 nav {
-    border: 1px black solid;	
+    border: 1px #74746B solid;	
 	background-color: #74746B;
     position: relative;
     clear: both;
+	height: 80px;
 }
 a {
 	background-color: green;
