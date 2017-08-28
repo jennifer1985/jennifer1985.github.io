@@ -16,7 +16,7 @@ h1 {
 	background-color: #f27b21;
 } 
 .title1 {
-	padding-top: -10px;
+	padding-top: -20px;
 }
 h2 {
 	color: #f47a21;
@@ -25,7 +25,6 @@ h2 {
 	font-size: 21px;
     line-height: 1.2em;
 }
-
 p {
 	color: #111112;
 	font-size: 16px;
@@ -73,10 +72,10 @@ a:hover {
 	margin: 3%
 }
 aside {
-    border: 1px black solid;
     padding: 20px;
 	margin-left: 50px;
-    width: 478px;
+ 	background-color: chocolate;
+	width: 478px;
 }
 footer {
     background-color: #FF957E;
@@ -84,8 +83,14 @@ footer {
     padding: 20px;
 }
 section {
-    border: 1px black solid;
     padding: 2px;
+}
+#two {
+	 padding: 120px;
+	margin-left: 50px;
+	width: 478px;
+ background-color: aqua;
+	
 }
 
 
