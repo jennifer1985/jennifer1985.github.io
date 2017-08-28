@@ -15,6 +15,9 @@ h1 {
 	clear: both;
 	background-color: #f27b21;
 } 
+.title1 {
+	padding-top: -10px;
+}
 h2 {
 	color: #f47a21;
 	font-family: 'Ramabhadra', sans-serif, 'Arial','Helvetica Neue','Helvetica,sans-serif';
