@@ -15,12 +15,10 @@ h1 {
 	clear: both;
 	background-color: #f27b21;
 	display: inline-block;
-	padding: .01em .1em .1em .1em
-} 
-.title1 {
-	padding-top: -20px;
+	padding: .01em .1em .1em .1em;
+	margin: 2px;
 }
-h2 {
+h2 {z
 	color: #f47a21;
 	font-family: 'Ramabhadra', sans-serif, 'Arial','Helvetica Neue','Helvetica,sans-serif';
 	letter-spacing: 0.1em;
