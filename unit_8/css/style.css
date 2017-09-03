@@ -18,7 +18,7 @@ h1 {
 	padding: .01em .1em .1em .1em;
 	margin: 2px;
 }
-h2 {z
+h2 {
 	color: #f47a21;
 	font-family: 'Ramabhadra', sans-serif, 'Arial','Helvetica Neue','Helvetica,sans-serif';
 	letter-spacing: 0.1em;
@@ -71,11 +71,18 @@ a:hover {
 	width: 27%;
 	margin: 3%
 }
-aside {
+#column1 {
     padding: 20px;
 	margin-left: 50px;
  	background-color: chocolate;
 	width: 478px;
+}
+#column2 {
+	 display: inline;
+	 padding: 120px;
+	 margin-left: 50px;
+	 width: 478px;
+	 background-color: aqua;
 }
 footer {
     background-color: #FF957E;
@@ -85,13 +92,7 @@ footer {
 section {
     padding: 2px;
 }
-#two {
-	 padding: 120px;
-	margin-left: 50px;
-	width: 478px;
- background-color: aqua;
-	
-}
+
 
 
 
