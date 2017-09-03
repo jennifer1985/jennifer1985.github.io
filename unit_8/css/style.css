@@ -19,6 +19,9 @@ h1 {
 	padding: .01em .1em .1em .1em;
 	margin: 2px;
 }
+.title {
+	margin-left: 2.2em;
+}
 h2 {
 	color: #f47a21;
 	font-family: 'Ramabhadra', sans-serif, 'Arial','Helvetica Neue','Helvetica,sans-serif';
