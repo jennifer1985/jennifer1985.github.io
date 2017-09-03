@@ -61,17 +61,7 @@ a:hover {
     background-color:  #fff;
 	border: 2px solid #fff;
 }
-#tech {
-	display: inline;
-	padding-left: 50px;
-	padding-right: 50px;
-}
-.tech_info {
-	display: block;
-	float: left;
-	width: 27%;
-	margin: 3%
-}
+
 #column1 {
     padding: 20px;
 	margin-left: 50px;
@@ -94,7 +84,17 @@ footer {
 section {
     padding: 2px;
 }
-
+#tech {
+	display: inline;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.tech_info {
+	display: block;
+	float: left;
+	width: 27%;
+	margin: 3%
+}
 
 
 
