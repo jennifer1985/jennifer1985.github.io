@@ -51,10 +51,10 @@ ul {
 }
 a {
 	float: left;
-	padding: .5em;
+	padding-left: 0.2em;
 	margin: 0 0 0 0.5em;
 	font-family: 'Arial','Helvetica Neue','Helvetica,sans-serif';
-    font-size: 14px;
+    font-size: 40px;
     line-height: 10px;
     letter-spacing: .1em;
     color: #fff;
@@ -64,18 +64,19 @@ a:hover {
 	color: #f27b21;
     background-color:  #fff;
 	border: 2px solid #fff;
+	padding: .1em .1em .1em .1em;
 }
 
 #column1 {
     padding: .5em;
 	margin-left: .5em;
-	width: 40%;
+	width: 35%;
 	float: left;
 }
 #column2 {
 	float: right;
 	padding-right: 2em; 
-	margin: 1.5em 2.5em 0em 0em;
+	margin: 1.5em 3em 0em 0em;
 	width: 40%;
 }
 
