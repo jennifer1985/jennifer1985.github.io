@@ -72,9 +72,8 @@ a:hover {
 }
 #column2 {
 	 float: right;
-	 margin: .1em .1em .1em .1em;
+	 margin: 1.5em 2.5em 0em 0em;
 	 width: 40%;
-	 background-color: aqua;
 }
 footer {
     background-color: #FF957E;
