@@ -54,7 +54,7 @@ a {
 	padding-left: 0.2em;
 	margin: 0 0 0 0.5em;
 	font-family: 'Arial','Helvetica Neue','Helvetica,sans-serif';
-    font-size: 40px;
+    font-size: 30px;
     line-height: 10px;
     letter-spacing: .1em;
     color: #fff;
@@ -63,8 +63,6 @@ a {
 a:hover {
 	color: #f27b21;
     background-color:  #fff;
-	border: 2px solid #fff;
-	padding: .1em .1em .1em .1em;
 }
 
 #column1 {
