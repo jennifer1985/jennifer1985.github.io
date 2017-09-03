@@ -76,9 +76,10 @@ a:hover {
 	margin-left: 50px;
  	background-color: chocolate;
 	width: 478px;
+	display: block
 }
 #column2 {
-	 display: inline;
+	 display: block;
 	 padding: 120px;
 	 margin-left: 50px;
 	 width: 478px;
