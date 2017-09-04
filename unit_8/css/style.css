@@ -62,7 +62,8 @@ a {
 }
 a:hover {
 	color: #f27b21;
-    background-color:  #fff;
+    background-color: #fff;
+	padding: .6em;
 }
 
 #column1 {
