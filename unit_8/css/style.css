@@ -66,8 +66,8 @@ a:hover {
 }
 
 #column1 {
-    padding: .5em;
-	margin-left: .5em;
+    padding: 2%;
+	margin-left: 2%;
 	width: 35%;
 	float: left;
 }
@@ -79,7 +79,7 @@ a:hover {
 }
 
 section {
-    padding: .1em;
+    padding: 2%;
 }
 #tech {
 	display: inline;
