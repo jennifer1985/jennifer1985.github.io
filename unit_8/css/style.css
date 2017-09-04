@@ -84,15 +84,15 @@ section {
 }
 #tech {
 	width: 90%;
-	display: inline;
 	margin: 0 auto;
+	display: inline-block;
+	    
 }
 .tech_info {
-	width: 29.33%;
-	padding: 1%;
-	margin: 0 1%;
+	width: 23%;
+	padding-left: 7%;
 	float: left;
-	
+	margin: 0px 2% 0px 1%;
 }
 footer {
     background-color: #FF957E;
