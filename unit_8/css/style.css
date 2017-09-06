@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Oswald|Ramabhadra');
 
 body {
@@ -104,3 +105,112 @@ footer {
 body {
 font-size: 35px;
 }
+=======
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Oswald|Ramabhadra');
+
+body {
+    background: url(images/background.jpg);
+    background-position: center;
+	background-size:cover;
+	text-align: center;
+	font-size: 48px;
+}
+h1 {
+    color: #111112;
+	font-family: 'Ramabhadra', sans-serif, 'Arial';
+	font-size: 1em;
+    line-height: 1.2em;
+    text-align: left;
+	clear: both;
+	background-color: #f27b21;
+	display: inline-block;
+	padding: .01em .1em .1em .1em;
+	margin: 2px;
+	margin-left: 3em;
+}
+.title {
+	margin-left: 4em;
+}
+h2 {
+	color: #f47a21;
+	font-family: 'Ramabhadra', sans-serif, 'Arial','Helvetica Neue','Helvetica,sans-serif';
+	letter-spacing: 0.1em;
+	font-size: 0.65em;
+    line-height: 1.2em;
+}
+p {
+	color: #111112;
+	font-size: 0.4em;
+	font-family: 'Merriweather', serif, 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
+}
+header {
+    border: 1px #74746B solid;
+    padding: .5em;
+	background-color: white;
+}
+nav {
+    border: 0.1em #74746B solid;	
+	background-color: #74746B;
+    position: relative;
+    clear: both;
+	height: 2em;
+}
+ul {
+	margin-left: 1.2em;
+}
+a {
+	float: left;
+	padding-left: 1.2em;
+	margin: 0 0 0 0.5em;
+	font-family: 'Arial','Helvetica Neue','Helvetica,sans-serif';
+    font-size: 0.7em;
+    letter-spacing: .1em;
+    color: #fff;
+    text-transform: uppercase;
+}
+a:hover {
+	color: #f27b21;
+    background-color: #fff;
+	padding: .6em;
+}
+
+#column1 {
+    padding: 2%;
+	margin-left: 2%;
+	width: 35%;
+	float: left;
+}
+#column2 {
+	float: right;
+	padding-right: 2em; 
+	margin: 1.5em 3em 0em 0em;
+	width: 40%;
+}
+
+section {
+    padding: 2%;
+}
+#tech {
+	width: 90%;
+	margin: 0 auto;
+	display: inline-block;
+	    
+}
+.tech_info {
+	width: 23%;
+	padding-left: 7%;
+	float: left;
+	margin: 0px 2% 0px 1%;
+}
+footer {
+    background-color: #FF957E;
+    border: .1em black solid;
+    padding: .5em;
+}
+
+@media screen and (max-width: 1480px) {
+body {
+font-size: 35px;
+}
+
+>>>>>>> e7d6b6de0b1f549c4e16277f644e7f4b3ea62c8c
