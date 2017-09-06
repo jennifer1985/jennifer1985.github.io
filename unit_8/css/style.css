@@ -27,12 +27,12 @@ h2 {
 	color: #f47a21;
 	font-family: 'Ramabhadra', sans-serif, 'Arial','Helvetica Neue','Helvetica,sans-serif';
 	letter-spacing: 0.1em;
-	font-size: 0.75em;
+	font-size: 0.65em;
     line-height: 1.2em;
 }
 p {
 	color: #111112;
-	font-size: 0.6em;
+	font-size: 0.4em;
 	font-family: 'Merriweather', serif, 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
 }
 header {
@@ -100,7 +100,7 @@ footer {
     padding: .5em;
 }
 
-@media screen and (max-width: 1455px) {
+@media screen and (max-width: 1480px) {
 body {
 font-size: 35px;
 }
