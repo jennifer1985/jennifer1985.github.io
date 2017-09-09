@@ -67,8 +67,8 @@ a:hover {
 }
 
 #column1 {
-    padding: 2%;
-	margin-left: 2%;
+    padding: 0.8em;
+	margin-left: 1em;
 	width: 35%;
 	float: left;
 }
@@ -102,5 +102,6 @@ footer {
 
 @media screen and (max-width: 1480px) {
 body {
-font-size: 35px;
+font-size: 40px;
 }
+
