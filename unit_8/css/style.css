@@ -36,9 +36,11 @@ p {
 	font-family: 'Merriweather', serif, 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
 }
 header {
-    border: 1px #74746B solid;
-    padding: .5em;
+    border: #74746B solid;
 	background-color: white;
+	text-align: left;
+	padding-left: 15px;
+	padding-top: 10px;
 }
 nav {
     border: 0.1em #74746B solid;	
