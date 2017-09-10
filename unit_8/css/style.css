@@ -37,8 +37,7 @@ p {
 }
 header {
 	background-color: white;
-	padding-left: 15px;
-	padding-top: 10px;
+	padding: 0.5%
 	display: inline-block;
 	width: 100%;  
 	border: 0.1em #74746B solid;	
