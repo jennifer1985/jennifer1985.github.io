@@ -46,6 +46,9 @@ header {
 #topnav {
 	text-align:left;
 }
+ul {
+    display: inline-block;
+}
 a {
 	float: left;
 	display: inline-block;
@@ -77,10 +80,6 @@ a:hover {
 	padding-right: 2em; 
 	margin: 1.5em 3em 0em 0em;
 	width: 40%;
-}
-
-section {
-    padding: 2%;
 }
 #tech {
 	width: 90%;
