@@ -213,7 +213,7 @@ padding-left: 0;
 .shoe {
 	display: none;	
 	}
-	column1 {
+column1 {
 	}
 h1 {
 	margin-left: 1em;	
@@ -226,3 +226,4 @@ column2 {
     padding-left: 8%;
 	}
 }
+@media screen and (max-width: 900px) {
