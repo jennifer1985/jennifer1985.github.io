@@ -110,8 +110,10 @@ section {
 }
 footer {
     background-color: white;
-    border: .1em black solid;
     padding: .5em;
+	text-transform: uppercase;
+	clear: both;
+    padding: 10px 0 25px;
 }
 
 @media screen and (max-width: 1500px) {
