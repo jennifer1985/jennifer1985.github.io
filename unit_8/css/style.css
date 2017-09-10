@@ -36,7 +36,6 @@ p {
 	font-family: 'Merriweather', serif, 'Arial', 'Helvetica Neue','Helvetica,sans-serif';
 }
 header {
-    border: #74746B solid;
 	background-color: white;
 	text-align: left;
 	padding-left: 15px;
@@ -126,6 +125,15 @@ footer {
 .email {
 	padding-left: 0.5em;
 	margin-top: -54px;
+}
+input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+ }
+input[type="submit"] {
+      background: #f47a21;
+      color: white;
 }
 
 @media screen and (max-width: 1500px) {
