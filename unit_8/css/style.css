@@ -3,7 +3,7 @@
 body {
     background: url(images/background.jpg);
     background-position: center;
-	background-size:cover;
+	background-size: cover;
 	text-align: center;
 	font-size: 48px;
 }
@@ -37,9 +37,13 @@ p {
 }
 header {
 	background-color: white;
-	text-align: left;
 	padding-left: 15px;
 	padding-top: 10px;
+	display: inline-block;
+	width: 100%;
+}
+#topnav {
+	text-align:left;
 }
 nav {
     border: 0.1em #74746B solid;	
@@ -127,7 +131,7 @@ footer {
 	margin-top: -54px;
 }
 input {
-      border-color: black;
+      border-color: #828080;
 	  border-width:1px;
       padding: 10px;
       font-size: 18px;
