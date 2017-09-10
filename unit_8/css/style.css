@@ -147,13 +147,13 @@ tech_image {
 	margin-top: -49%;
 	}
 .techimage1 {
-	background: url(images/hill.jpg);
+	background: src=images/hill.jpg;
 	}
 .techimage2 {
-	background: url(images/grass.jpg);
+	background: url(jennifer1985.github.io/unit_8/grass.jpg);
 	}
 #techimage3 {
-	background: url(images/water.jpg);
+	background: url(../images/water.jpg)
 	}
 #tech2 {
 	display: none;
