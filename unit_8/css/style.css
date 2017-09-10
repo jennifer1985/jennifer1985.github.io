@@ -175,11 +175,9 @@ tech_image {
 	background-color: rgba(0, 0, 0, 0.61);
     padding: 15px;
 	}
-p {
+#tech_info p {
 	color: #f9f9fb;
     font-size: 0.6em;
-	background-color: rgba(0, 0, 0, 0.61);
-    padding: 15px;
 	}
 
 	  
