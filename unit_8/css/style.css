@@ -116,10 +116,10 @@ footer {
     padding: 10px 0 25px;
 }
 #email {
-	align-content: left
+	text-align: left;
 }
 #copyright {
-	align-content: right
+	text-align: right;
 }
 @media screen and (max-width: 1500px) {
 body {
