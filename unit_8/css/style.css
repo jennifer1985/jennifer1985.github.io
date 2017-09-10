@@ -210,13 +210,13 @@ padding-left: 0;
 	}
 }
 @media screen and (max-width: 1000px) {
-column1 {
+#column1 {
 	float: none;
 	}
 h1 {
 	margin-left: 1em;	
 	}
-column2 {
+#column2 {
 	float: center;
 	padding-right: 0em;
     margin: 1.5em 3em 0em 0em;
@@ -225,11 +225,11 @@ column2 {
 	}
 }
 @media screen and (max-width: 920px) {
-column1 {    
+#column1 {    
 	padding-top: 0.8em;
     width: 31%;
 }
-column2 {
+#column2 {
 	 width: 48%;
 }
 }
