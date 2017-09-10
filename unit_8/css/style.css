@@ -40,17 +40,17 @@ header {
 	padding-left: 15px;
 	padding-top: 10px;
 	display: inline-block;
-	width: 100%;
+	width: 100%;  
+	border: 0.1em #74746B solid;	
+    position: relative;
+    clear: both;
+	height: 2em;
 }
 #topnav {
 	text-align:left;
 }
 nav {
-    border: 0.1em #74746B solid;	
-	background-color: #74746B;
-    position: relative;
-    clear: both;
-	height: 2em;
+  
 }
 ul {
 	margin-left: 1.2em;
