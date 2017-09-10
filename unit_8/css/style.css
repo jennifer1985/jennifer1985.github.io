@@ -141,17 +141,20 @@ font-size: 35px;
 }
 @media screen and (max-width: 1100px) {
 body {
-font-size: 35px;
+	font-size: 35px;
 }
 tech_image {
 	margin-top: -49%;
 	}
-#techimage1 {
+.techimage1 {
 	background: url(images/hill.jpg);
 	}
-#techimage2 {
+.techimage2 {
 	background: url(images/grass.jpg);
 	}
 #techimage3 {
 	background: url(images/water.jpg);
+	}
+#tech2 {
+	display: none;
 	}
