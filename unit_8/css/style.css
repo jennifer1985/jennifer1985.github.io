@@ -158,8 +158,8 @@ tech_image {
 	}
 #techimage3 {
 	background: url(../images/water.jpg);
-	  background-size: cover;
-      background-position: center;
+	background-size: cover;
+    background-position: center;
 	}
 #tech2 {
 	display: none;
