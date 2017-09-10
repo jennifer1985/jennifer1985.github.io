@@ -153,7 +153,9 @@ tech_image {
 	background: url(jennifer1985.github.io/unit_8/grass.jpg);
 	}
 #techimage3 {
-	background: url(../images/water.jpg)
+	background: url(../images/water.jpg);
+	width: 33%;
+	float: left;
 	}
 #tech2 {
 	display: none;
