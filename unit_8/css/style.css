@@ -147,16 +147,21 @@ tech_image {
 	margin-top: -49%;
 	}
 .techimage1 {
-	background: src=images/hill.jpg;
+	background: url(../images/hill.jpg);
+	width: 33%;
+	float: left;
 	}
 .techimage2 {
-	background: url(jennifer1985.github.io/unit_8/grass.jpg);
+	background: url(../images/grass.jpg);
+	width: 33%;
+	float: left;
 	}
 #techimage3 {
 	background: url(../images/water.jpg);
-	width: 33%;
-	float: left;
+	  background-size: cover;
+      background-position: center;
 	}
 #tech2 {
 	display: none;
 	} 
+
