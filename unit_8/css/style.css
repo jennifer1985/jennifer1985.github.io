@@ -109,7 +109,7 @@ section {
 	width: 95%;
 }
 footer {
-    background-color: #FF957E;
+    background-color: white;
     border: .1em black solid;
     padding: .5em;
 }
@@ -119,6 +119,10 @@ body {
 font-size: 40px;
 }
 @media screen and (max-width: 1250px) {
+body {
+font-size: 35px;
+}
+@media screen and (max-width: 1100px) {
 body {
 font-size: 35px;
 }
