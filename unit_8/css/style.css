@@ -146,12 +146,12 @@ body {
 tech_image {
 	margin-top: -49%;
 	}
-.techimage1 {
+#techimage1 {
 	background: url(../images/hill.jpg);
 	width: 33%;
 	float: left;
 	}
-.techimage2 {
+#techimage2 {
 	background: url(../images/grass.jpg);
 	width: 33%;
 	float: left;
