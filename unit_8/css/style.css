@@ -104,6 +104,9 @@ section {
 	width: 33%;
 	float: left;
 }
+shoeimage {
+	width: 95%;
+}
 footer {
     background-color: #FF957E;
     border: .1em black solid;
