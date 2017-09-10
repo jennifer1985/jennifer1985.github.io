@@ -151,6 +151,7 @@ tech_image {
 	background-size: cover;
     background-position: center;
 	margin: 2px;
+	padding-top: 45px;
 	}
 #techimage2 {
 	background: url(../images/grass.jpg);
@@ -163,6 +164,7 @@ tech_image {
 	background-size: cover;
     background-position: center;
 	margin: 2px;
+	padding-top: 45px;
 	}
 #tech2 {
 	display: none;
@@ -170,4 +172,9 @@ tech_image {
 .tech_info {
 	width: 26%;
 	margin-top: -10%;
+	}
+p {
+	color: #f9f9fb;
+    font-size: 0.6em;
+	}
 	}
