@@ -148,13 +148,13 @@ tech_image {
 	}
 #techimage1 {
 	background: url(../images/hill.jpg);
-	width: 33%;
-	float: left;
+	background-size: cover;
+    background-position: center;
 	}
 #techimage2 {
 	background: url(../images/grass.jpg);
-	width: 33%;
-	float: left;
+	background-size: cover;
+    background-position: center;
 	}
 #techimage3 {
 	background: url(../images/water.jpg);
