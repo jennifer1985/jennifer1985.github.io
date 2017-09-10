@@ -60,6 +60,9 @@ a {
     color: #fff;
     text-transform: uppercase;
 }
+img {
+	 width: 176%;
+}
 a:hover {
 	color: #f27b21;
     background-color: #fff;
