@@ -227,6 +227,11 @@ column2 {
     padding-left: 8%;
 	}
 }
+@media screen and (max-width: 920px) {
+    padding-top: 0.8em;
+    width: 31%;
+}
+}
 @media screen and (max-width: 480px) {
 	.merrell-logo {
 	    width: 70%;
