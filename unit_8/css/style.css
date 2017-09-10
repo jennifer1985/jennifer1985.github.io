@@ -172,12 +172,13 @@ tech_image {
 .tech_info {
 	width: 26%;
 	margin-top: -10%;
-	background-color: rgba(0, 0, 0, 0.61);
-    padding: 15px;
 	}
 .techfont {
 	color: #f9f9fb;
     font-size: 0.6em;
+	}
+	#tech {
+		padding-left: 10%;
 	}
 
 	  
