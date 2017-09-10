@@ -150,16 +150,19 @@ tech_image {
 	background: url(../images/hill.jpg);
 	background-size: cover;
     background-position: center;
+	padding: 2px;
 	}
 #techimage2 {
 	background: url(../images/grass.jpg);
 	background-size: cover;
     background-position: center;
+	padding: 2px;
 	}
 #techimage3 {
 	background: url(../images/water.jpg);
 	background-size: cover;
     background-position: center;
+	padding: 2px;
 	}
 #tech2 {
 	display: none;
