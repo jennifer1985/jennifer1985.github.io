@@ -167,6 +167,7 @@ tech_image {
 #tech2 {
 	display: none;
 	} 
-#tech {
-	width: 98%;
+.tech_info {
+	width: 26%;
+	margin-top: -10%;
 	}
