@@ -114,12 +114,11 @@ footer {
 	text-transform: uppercase;
 	clear: both;
     padding: 10px 0 25px;
-}
-#email {
 	text-align: left;
 }
-#copyright {
+.copyright {
 	text-align: right;
+	padding-right: 10px;
 }
 @media screen and (max-width: 1500px) {
 body {
