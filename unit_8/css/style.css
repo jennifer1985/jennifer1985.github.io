@@ -146,6 +146,12 @@ font-size: 35px;
 tech_image {
 	margin-top: -49%;
 	}
-	
- background: url(images/background.jpg);
-	
+	techimage1 {
+	background: url(images/hill.jpg);
+	}
+	techimage2 {
+	background: url(images/grass.jpg);
+	}
+techimage3 {
+	background: url(images/water.jpg);
+	}
