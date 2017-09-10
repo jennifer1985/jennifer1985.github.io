@@ -127,7 +127,8 @@ footer {
 	margin-top: -54px;
 }
 input {
-      border: black 1px;
+      border-color: black;
+	  border-width:1px;
       padding: 10px;
       font-size: 18px;
  }
