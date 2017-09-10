@@ -211,7 +211,8 @@ padding-left: 0;
 }
 @media screen and (max-width: 1000px) {
 #column1 {
-	float: none;
+	padding-top: 0.8em;
+    width: 31%;
 	}
 h1 {
 	margin-left: 1em;	
