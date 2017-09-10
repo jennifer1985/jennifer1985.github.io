@@ -228,8 +228,12 @@ column2 {
 	}
 }
 @media screen and (max-width: 920px) {
-    padding-top: 0.8em;
+column1 {    
+	padding-top: 0.8em;
     width: 31%;
+}
+column2 {
+	 width: 48%;
 }
 }
 @media screen and (max-width: 480px) {
@@ -246,5 +250,6 @@ column2 {
 	ul {
 		padding-left: 22%;
 	}
+	
 	
 }
