@@ -233,6 +233,9 @@ h1 {
 #column2 {
 	 width: 48%;
 }
+	.shoe {
+	display: none;
+	}
 }
 @media screen and (max-width: 480px) {
 	.merrell-logo {
