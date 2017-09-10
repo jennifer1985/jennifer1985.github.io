@@ -61,15 +61,13 @@ a {
     color: grey;
     text-transform: uppercase;
 }
-.shoe {
-	 width: 176%;
-}
 a:hover {
 	color: #f27b21;
     background-color: #fff;
-	padding: .6em;
 }
-
+.shoe {
+	 width: 176%;
+}
 #column1 {
     padding: 0.8em;
 	margin-left: 1em;
