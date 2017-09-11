@@ -217,7 +217,12 @@ padding-left: 0;
 	}
 }
 @media screen and (max-width: 1000px) {
-	#column1 {
+#title {
+	padding-top: .8em;
+    width: 34%;
+    float: left;
+	}	
+#column1 {
 	padding-top: 0.8em;
     width: 31%;
 	}
