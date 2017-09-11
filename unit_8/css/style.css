@@ -152,26 +152,26 @@ body {
 }
 tech_image {
 	margin-top: -49%;
-	}
+}
 #title {
     padding: 0.8em;
     margin-left: 0em;
-    width: 34%;
+    width: 30%;
     float: left;
-	}
+}
 #techimage1 {
 	background: url(../images/hill.jpg);
 	background-size: cover;
     background-position: center;
 	margin: 2px;
 	padding-top: 45px;
-	}
+}
 #techimage2 {
 	background: url(../images/grass.jpg);
 	background-size: cover;
     background-position: center;
 	margin: 2px;
-	}
+}
 #techimage3 {
 	background: url(../images/water.jpg);
 	background-size: cover;
