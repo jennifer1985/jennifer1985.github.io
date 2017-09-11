@@ -153,6 +153,13 @@ body {
 tech_image {
 	margin-top: -49%;
 	}
+#title {
+    margin-top: 1.2em;
+	padding: 0em;
+	margin-left: 0em;
+	width: 0em;
+	float: none;
+	}
 #techimage1 {
 	background: url(../images/hill.jpg);
 	background-size: cover;
