@@ -74,6 +74,12 @@ a:hover {
 	width: 33%;
 	float: left;
 }
+#title {
+    padding: 0.8em;
+	margin-left: 1em;
+	width: 33%;
+	float: left;
+}
 #column2 {
 	float: right;
 	padding-right: 2em; 
