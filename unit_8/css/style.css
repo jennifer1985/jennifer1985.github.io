@@ -221,7 +221,6 @@ padding-left: 0em;
 	width: 40%;
 	display: block;
 	padding-left: 31%;
-	padding: 1%;
 }
 header {
 	height: 2.5em;
@@ -230,7 +229,8 @@ header {
  	text-align: center;
 	}
 h1 {
-	margin-left: 2em;
+    margin-left: -1em;
+	font-size: 29px;
 	}
 a {
 	font-size: 0.5em;
@@ -240,6 +240,10 @@ ul {
     margin: 0em;
 	display: block;
 	padding-left: 25%;
+	}
+#title {
+    padding: 0;
+    margin-left: 0;
 	}
 #column1 {    
 	padding-top: 0.8em;
