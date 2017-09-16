@@ -159,6 +159,9 @@ tech_image {
     width: 30%;
     float: left;
 }
+a {
+	 margin: 0 0 0 1.75em;
+}
 #techimage1 {
 	background: url(../images/hill.jpg);
 	background-size: cover;
