@@ -238,7 +238,7 @@ h1 {
     padding-left: 8%;
 	}
 }
-@media screen and (max-width: 920px) {
+@media screen and (max-width: 1000px) {
 #column1 {    
 	padding-top: 0.8em;
     width: 31%;
