@@ -229,16 +229,13 @@ padding-left: 0em;
 	}
 }
 @media screen and (max-width: 929px) {
-	.merrell-logo {
-	    width: 45%;
-	}
 	#topnav {
     text-align: center;
 	}
 	.merrell-logo {
-    padding-top: 1.5%;
-	padding: 0%;
-	padding-left: 0%;
+	width: 45%;
+	padding: 1.5% 0 0 0;
+    padding-left: 0%;
 	}
 	a {
 		font-size: 0.6em;
