@@ -146,7 +146,7 @@ body {
 font-size: 40px;
 }
 }
-@media screen and (min-width: 1000px) and (max-width: 1400px) {
+@media screen and (min-width: 1001px) and (max-width: 1400px) {
 body {
 	font-size: 35px;
 }
@@ -216,7 +216,7 @@ a {
 padding-left: 0em;
 }
 }
-@media screen and (max-width: 1000px) {
+@media screen and (min-width: 930px) and (max-width: 1000px) {
 #column1 {    
 	padding-top: 0.8em;
     width: 31%;
@@ -226,6 +226,24 @@ padding-left: 0em;
 }
 	.shoe {
 	display: none;
+	}
+}
+@media screen and (max-width: 929px) {
+	.merrell-logo {
+	    width: 70%;
+	}
+	a {
+		font-size: 0.6em;
+		padding-right: 16px;
+	}
+	header {
+		height: 4.5em;
+	}
+	ul {
+		padding-left: 22%;
+	}
+	.shoe {
+		display: none;
 	}
 }
 @media screen and (max-width: 480px) {
