@@ -221,6 +221,9 @@ body {
 	padding-top: 0.8em;
     width: 31%;
 	}
+a {
+	padding-left: 0em;		
+}
 h1 {
 	margin-left: 1em;	
 	}
