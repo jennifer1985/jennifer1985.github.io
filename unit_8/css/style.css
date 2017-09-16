@@ -220,12 +220,17 @@ padding-left: 0em;
 .merrell-logo {
 	width: 40%;
 	display: block;
+	padding-left: 31%;
+	padding: 1%;
 }
 header {
 	height: 2.5em;
 	}
 #topnav {
  	text-align: center;
+	}
+h1 {
+	margin-left: 2em;
 	}
 a {
 	font-size: 0.5em;
@@ -234,6 +239,7 @@ ul {
 	padding: 0.1em 0 0 0.1em;
     margin: 0em;
 	display: block;
+	padding-left: 25%;
 	}
 #column1 {    
 	padding-top: 0.8em;
