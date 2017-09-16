@@ -232,6 +232,12 @@ padding-left: 0em;
 	.merrell-logo {
 	    width: 70%;
 	}
+	#topnav {
+    text-align: center;
+	}
+	.merrell-logo {
+    padding-top: 1.5%;
+	}
 	a {
 		font-size: 0.6em;
 		padding-right: 16px;
@@ -240,7 +246,9 @@ padding-left: 0em;
 		height: 4.5em;
 	}
 	ul {
-		padding-left: 22%;
+    display: inline-block;
+    background: white;
+    width: 100%;
 	}
 	.shoe {
 		display: none;
