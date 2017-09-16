@@ -159,9 +159,6 @@ tech_image {
     width: 30%;
     float: left;
 }
-a {
-	 margin: 0 0 0 1.75em;
-}
 #techimage1 {
 	background: url(../images/hill.jpg);
 	background-size: cover;
@@ -215,9 +212,6 @@ ul {
 	margin-top: 10px;
 	padding-left: 33%;
 }
-a {
-padding-left: 0; 
-	}
 }
 @media screen and (min-width: 1000px) and (max-width: 1100px) {
 body {
