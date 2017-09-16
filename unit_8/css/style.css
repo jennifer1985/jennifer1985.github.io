@@ -217,6 +217,9 @@ padding-left: 0em;
 }
 }
 @media screen and (min-width: 300px) and (max-width: 1000px) {
+	.merrell-logo {
+		width: 20%;
+	}
 #column1 {    
 	padding-top: 0.8em;
     width: 31%;
