@@ -232,8 +232,12 @@ h1 {
     margin-left: 0em;
 	font-size: 29px;
 	}
-h2,a {
-	font-size: 0.5em;	
+h2 {
+	font-size: 0.5em;
+}
+a {
+	font-size: 0.5em;
+	padding-left: 0.1em;
 }
 ul {
 	padding: 0.1em 0 0 0.1em;
@@ -259,4 +263,12 @@ ul {
 .shoe {
 	display: none;
 	}
+.email {    
+	margin-top: -222px;
+    padding-bottom: 44px;
+	}
+.copyright {
+	margin-top: 197px;
+	}
 }
+
